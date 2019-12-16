@@ -3,6 +3,6 @@ the miguel flask application
 
 
 
-the flask blog website
+the flask blog website  miguel  
 
-miguel  
+add the login-sub-system for the application
